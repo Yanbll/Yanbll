@@ -2,7 +2,7 @@
   <h1 align="center">Yan Abellino</h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&color=58A6FF&center=true&vCenter=true&width=435&lines=Informatics+Student;Data+%26+Web+Enthusias" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&color=58A6FF&center=true&vCenter=true&width=435&lines=Informatics+Student;Data+%26+Web+Enthusiast" alt="Typing SVG" />
   </p>
   <br/>
 
