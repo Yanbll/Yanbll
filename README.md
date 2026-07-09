@@ -17,21 +17,14 @@
 <div align="center">
 
 #### 💻 Web Development
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vue,tailwind css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,next,vue,tailwind&theme=light)](https://skillicons.dev)
 
 #### 🤖 Machine Learning & Data Science
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+[![My Skills](https://skillicons.dev/icons?i=python,scikitlearn,tensorflow&theme=light)](https://skillicons.dev)
 
 #### ⚙️ Tools & Environment
-<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=light)](https://skillicons.dev)
+
 </div>
 <br/>
 <br/>
@@ -41,10 +34,10 @@
 ### 🔗 Connect with Me
 <div align="center">
 <a href="https://www.linkedin.com/in/yan-abellino-84b209349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://skillicons.dev/icons?i=linkedin"
 </a>
 </a>
 <a href="https://instagram.com/yanbll__" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+<img src="https://skillicons.dev/icons?i=instagram"
 </a>
 </div>
